@@ -1,0 +1,11 @@
+{
+    "name": "site_project",
+    "description": "Βιογραφία αθλητή στίβου",
+    "main": "site.js",
+    "scripts": {
+        "start": "node site.js"
+    },
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}

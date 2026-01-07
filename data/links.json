@@ -1,0 +1,26 @@
+{
+  "videos": [
+    {
+      "text": "Usain Bolt 9.58 WORLD RECORD 100M Berlin 2009",
+      "link": "https://www.youtube.com/watch?v=HFLuduKmnW0"
+    },
+    {
+      "text": "Usain Bolt 19.19 WORLD RECORD 200M Berlin 2009",
+      "link": "https://www.youtube.com/watch?v=_DjvvI-0xjc"
+    },
+    {
+      "text": "Usain Bolt 36.85 WORLD RECORD RELAY 4X100M London 2014",
+      "link": "https://www.youtube.com/watch?v=WrauKbReFU4"
+    }
+  ],
+  "interviews": [
+    {
+      "text": "Usain Bolt 9.58 WORLD RECORD 100M Berlin 2009 - INTERVIEW",
+      "link": "https://www.youtube.com/watch?v=S4xCYczNkIg"
+    },
+    {
+      "text": "Usain Bolt 19.19 WORLD RECORD 200M Berlin 2009 - INTERVIEW",
+      "link": "https://youtu.be/jpbXyo7a9Z4?si=FiJcEU5YseJFD2TK&t=111"
+    }
+  ]
+}
